@@ -2,7 +2,7 @@
 
 ### Class Recordings
 
-Month | Monday | Tuesday | Wednesday | Thursday | Friday
---- | --- | --- | --- | --- | ---
+Monday | Tuesday | Wednesday | Thursday | Friday
+--- | --- | --- | --- | ---
 **APRIL** | **5** | **6** | **7** | **8** | **9**
-&nbsp; | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) |
+-[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) |
