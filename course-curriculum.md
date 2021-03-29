@@ -40,7 +40,7 @@
       <td rowspan="3">Second Language & Web Framework</td>
       <td align="center">7</td>
       <td>Relational Databases & SQL<br>Fundamentals of Python<br>CS Topics</td>
-      <td rowspan="3">Group Project: Full-stack Django Application</td>
+      <td rowspan="3">Project: Full-stack Django Application</td>
     </tr>
     <tr>
       <td align="center">8</td>
