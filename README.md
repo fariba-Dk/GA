@@ -3,7 +3,7 @@
 
 ## Important Links
 
-- [Zoom Classroom](#)
+- [Zoom Classroom](https://generalassembly.zoom.us/j/94727472258?pwd=Z3BzcDhUcWVLMjEvbFREQ1pkRTRjdz09)
 - [Class Recordings](https://git.generalassemb.ly/WC-seir-405/schedule/blob/master/class-recordings.md)
 - [Course Curriculum](https://git.generalassemb.ly/WC-seir-405/schedule/blob/master/course-curriculum.md)
 - [Class Culture/Expectations](https://git.generalassemb.ly/wc-seir-405/welcome-to-sei)
@@ -14,15 +14,14 @@
 
 ## Course Dates (Not Including Holidays)
 
-- December 7, 2020 - March 11, 2021
+- April 5, 2020 - June 29, 2021
 
 <br/>
 
 ## Holidays
 
-- December 24 - January 1, 2021
-- January 18
-- February 15
+- May 31st
+- June 18th
 
 <br/>
 
@@ -30,10 +29,8 @@
 
 [TA Office Hours Signup Form](#)
 
-Times | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday
---- | --- | --- | --- | --- | --- | ---
-
-
+Mon - Thu: 5:00pm - 7:00pm Pacific Time
+Sundays: 2:00pm - 4:00pm Pacific Time
 
 <br/>
 
@@ -90,7 +87,7 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td><strong>Monday</strong><br />(12/7)</td>
+<td><strong>Monday</strong><br />(4/5)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/welcome-to-sei">Welcome to GA</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/intro-terminal">Terminal Intro</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/command-line-lab">Terminal Lab</a></td>
@@ -99,7 +96,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Tuesday</strong><br />(12/8)</td>
+<td><strong>Tuesday</strong><br />(4/6)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/semantic-html">Semantic HTML</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/intro-to-programming">Intro To Programming</a></td>
 <td>
@@ -112,7 +109,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Wednesday</strong><br />(12/9)</td>
+<td><strong>Wednesday</strong><br />(4/7)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a></td>
 <td>
@@ -125,7 +122,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Thursday</strong><br />(12/10)</td>
+<td><strong>Thursday</strong><br />(4/8)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/profile-cards">CSS Profile Card</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/functions">Functions</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/functions-lab">Functions Lab</a></td>
@@ -134,7 +131,7 @@ However, you can access past year's puzzles!
 </tr>
 
 <tr>
-<td><strong>Friday</strong><br />(12/11)</td>
+<td><strong>Friday</strong><br />(4/9)</td>
 <td>CSS: Landing Page</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/Objects">Objects</a> </td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/Objects-lab">Objects Lab</a></td>
@@ -158,15 +155,15 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td>12/9</td>
+<td>4/7</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/HW-Loops-Conditionals">Loops & Conditionals</a></td>
-<td>12/16</td>
+<td>4/14</td>
 </tr>
 
 <tr>
-<td>12/10</td>
+<td>4/9</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/functions-scope-hw">Functions</a></td>
-<td>12/17</td>
+<td>4/16</td>
 </tr>
 
 </table>
