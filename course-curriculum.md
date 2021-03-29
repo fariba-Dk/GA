@@ -26,7 +26,7 @@
       <td rowspan="3">Full-stack Development</td>
       <td align="center">4</td>
       <td>Client-Server: HTTP Communications & REST<br>NodeJS & ExpressJS Framework<br>MongoDB & MongooseJS ODM<br>Data Modeling</td>
-      <td rowspan="3">MEN-stack CRUD Application</td>
+      <td rowspan="3">Full-stack MEN Application</td>
     </tr>
     <tr>
       <td align="center">5</td>
@@ -54,7 +54,7 @@
       <td rowspan="3">Developing Single-page Apps</td>
       <td align="center">10</td>
       <td>SPA Architecture<br>ReactJS Library<br>Client-side Routing (React)</td>
-      <td rowspan="3">MERN-stack Application</td>
+      <td rowspan="3">Full-stack MERN Application</td>
     </tr>
     <tr>
       <td align="center">11</td>
