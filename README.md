@@ -4,8 +4,8 @@
 ## Important Links
 
 - [Zoom Classroom](https://generalassembly.zoom.us/j/94727472258?pwd=Z3BzcDhUcWVLMjEvbFREQ1pkRTRjdz09)
-- [Class Recordings](https://git.generalassemb.ly/WC-seir-405/schedule/blob/master/class-recordings.md)
-- [Course Curriculum](https://git.generalassemb.ly/WC-seir-405/schedule/blob/master/course-curriculum.md)
+- [Class Recordings](https://git.generalassemb.ly/wc-seir-405/schedule/blob/master/class-recordings.md)
+- [Course Curriculum](https://git.generalassemb.ly/wc-seir-405/schedule/blob/master/course-curriculum.md)
 - [Class Culture/Expectations](https://git.generalassemb.ly/wc-seir-405/welcome-to-sei)
 - [Remote Class Expectations](https://git.generalassemb.ly/wc-seir-405/remote-class-expectations)
 - [Installfest](https://git.generalassemb.ly/wc-seir-405/installfest)
