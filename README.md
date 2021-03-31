@@ -89,8 +89,12 @@ However, you can access past year's puzzles!
 <tr>
 <td><strong>Monday</strong><br />(4/5)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/welcome-to-sei">Welcome to GA</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/intro-terminal">Terminal Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/command-line-lab">Terminal Lab</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/installfest">Installfest</a></td>
+<td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-405/intro-terminal">Terminal Intro</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/command-line-lab">Terminal Lab</a>
+</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/hw-unix-cli-practice">Terminal Practice</a></td>
 <td>Terminal/CLI</td>
 </tr>
@@ -99,12 +103,12 @@ However, you can access past year's puzzles!
 <td><strong>Tuesday</strong><br />(4/6)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/semantic-html">Semantic HTML</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/intro-to-programming">Intro To Programming</a></td>
+<td>Outcomes</td>
 <td>
-  
-  - <a href="https://git.generalassemb.ly/wc-seir-405/installfest">Installfest</a>
+
   - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a>
 </td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a></td>
 <td>Github Basics</td>
 </tr>
 
