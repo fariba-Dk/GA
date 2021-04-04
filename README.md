@@ -103,12 +103,13 @@ However, you can access past year's puzzles!
 <td><strong>Tuesday</strong><br />(4/6)</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/semantic-html">Semantic HTML</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/intro-to-programming">Intro To Programming</a></td>
-<td>Outcomes</td>
 <td>
-
+  
+  - Outcomes
   - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
   - <a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a>
 </td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a></td>
 <td>Github Basics</td>
 </tr>
 
