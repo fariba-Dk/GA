@@ -88,7 +88,11 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Monday</strong><br />(4/5)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/welcome-to-sei">Welcome to GA! Class Culture/Expectations</a></td>
+<td>
+
+  - Welcome to GA!
+  - <a href="https://git.generalassemb.ly/wc-seir-405/welcome-to-sei">Class Culture/Expectations</a>
+</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/installfest">Installfest</a></td>
 <td>
 
