@@ -96,8 +96,8 @@ However, you can access past year's puzzles!
 <td><a href="https://git.generalassemb.ly/wc-seir-405/installfest">Installfest</a></td>
 <td>
 
-  - <a href="https://git.generalassemb.ly/wc-seir-405/intro_to_terminal">Terminal Intro</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-405/command-line-lab">Terminal Lab</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/intro-to-terminal">Terminal Intro</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/terminal-lab">Terminal Lab</a>
 </td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/hw-unix-cli-practice">Terminal Practice</a></td>
 <td>Terminal/CLI</td>
