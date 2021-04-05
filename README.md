@@ -99,7 +99,7 @@ However, you can access past year's puzzles!
   - <a href="https://git.generalassemb.ly/wc-seir-405/intro-to-terminal">Terminal Intro</a>
   - <a href="https://git.generalassemb.ly/wc-seir-405/terminal-lab">Terminal Lab</a>
 </td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/hw-unix-cli-practice">Terminal Practice</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/terminal-practice">Terminal Practice</a></td>
 <td>Terminal/CLI</td>
 </tr>
 
