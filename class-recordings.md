@@ -5,4 +5,4 @@
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
 **5** | **6** | **7** | **8** | **9**
--[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) |
+-[Installfest](https://generalassembly.zoom.us/rec/share/hN5h2IZMwuG87KxxNvXdG-qThG0-dQweb-d0ds_ovK0IExYvNAOuGUtFgyjk8AhP.NJdVj9pc0DfK166g) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) |
