@@ -110,8 +110,7 @@ However, you can access past year's puzzles!
 <td>
   
   - Outcomes
-  - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/intro-to-programming">Intro To Programming</a>
 </td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a></td>
 <td>Github Basics</td>
@@ -119,8 +118,16 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Wednesday</strong><br />(4/7)</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a></td>
+<td>
+  
+  - <a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
+</td>
+<td>
+  
+  - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a>
+</td>
 <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-405/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
