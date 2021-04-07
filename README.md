@@ -119,17 +119,17 @@ However, you can access past year's puzzles!
   - <a href="https://git.generalassemb.ly/wc-seir-405/css-selector-basics">CSS Intro</a>
   - <a href="https://git.generalassemb.ly/wc-seir-405/github">Github</a>
 </td>
-<td>
-  
-  - <a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a>
-</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/conditionals-and-loops">Loops & Conditionals</a></td>
 <td>
 
   - <a href="https://git.generalassemb.ly/wc-seir-405/Arrays-iterating-over-them">Arrays &amp; Iteration</a>
   - <a href="https://git.generalassemb.ly/wc-seir-405/loop-lab">Loop Lab</a>
 </td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/HW-Loops-Conditionals">Loops</a></td>
+<td>
+  
+  - <a href="https://git.generalassemb.ly/wc-seir-405/git-github-lab">Github Lab</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/HW-Loops-Conditionals">Loops & Conditionals Deliverable</a>
+</td>
 <td>JavaScript Arrays</td>
 </tr>
 
