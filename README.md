@@ -138,7 +138,7 @@ However, you can access past year's puzzles!
 <td><a href="https://git.generalassemb.ly/wc-seir-405/profile-cards">CSS Profile Card</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/functions">Functions</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/functions-lab">Functions Lab</a></td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/functions-scope-hw">Functions</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/functions-scope-hw">Functions Deliverable</a></td>
 <td>JavaScript Functions</td>
 </tr>
 
