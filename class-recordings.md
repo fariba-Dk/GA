@@ -1,8 +1,9 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> WC SEI Remote 12/07 Class Recordings</h1>
 
-###  APRIL
+
+### Week 1 - FUNdamentals...!
 
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
-**5** | **6** | **7** | **8** | **9**
+**4/5** | **4/6** | **4/7** | **4/8** | **4/9**
 -[Installfest](https://generalassembly.zoom.us/rec/share/Nd38KhouVr1bv0KhY-JTVhOnBATMnlImdtFVwt4_XQ8rZkDLkO306jRQoXBvaGsU.qByexZPGYt-nYCDm?startTime=1617653316000) | -[Semantic HTML P1](https://generalassembly.zoom.us/rec/share/sKMvuVFTx7OpHUt7IPj_PtnPAAgMz9uNi1FLWQo6PjAZEmCigfjm4FhdUcxZoEdX.C5nFq-9mXpEM-rUG?startTime=1617725483000)<br /><br /> -[Semantic HTML P2](https://generalassembly.zoom.us/rec/share/zwnuAlaLoEGswQBCrX5HIOIZxyXdYhESq-4m_mLHvloyo4EgUtnyl0c5sc00zJaW.gjDgWChgoppFvZRG?startTime=1617729977000)<br /><br /> -[Intro to Programming P1](https://generalassembly.zoom.us/rec/share/zwnuAlaLoEGswQBCrX5HIOIZxyXdYhESq-4m_mLHvloyo4EgUtnyl0c5sc00zJaW.gjDgWChgoppFvZRG?startTime=1617732231000)<br /><br /> -[Intro to Programming P2](https://generalassembly.zoom.us/rec/share/zwnuAlaLoEGswQBCrX5HIOIZxyXdYhESq-4m_mLHvloyo4EgUtnyl0c5sc00zJaW.gjDgWChgoppFvZRG?startTime=1617747121000)<br /><br /> -[Outcomes](https://generalassembly.zoom.us/rec/share/zwnuAlaLoEGswQBCrX5HIOIZxyXdYhESq-4m_mLHvloyo4EgUtnyl0c5sc00zJaW.gjDgWChgoppFvZRG?startTime=1617739650000) | -[Git/Github](https://generalassembly.zoom.us/rec/share/bLIcThaV1ZnM18ozVltEsUmAJm7Wg6VbwAFMfHuhRigvNTAVaqQ8eBXmnR4--yI.HhH3IogX9n4bS4Hc?startTime=1617816734000)<br /><br /> -[Conditionals/Arrays/Loops](https://generalassembly.zoom.us/rec/share/bLIcThaV1ZnM18ozVltEsUmAJm7Wg6VbwAFMfHuhRigvNTAVaqQ8eBXmnR4--yI.HhH3IogX9n4bS4Hc?startTime=1617825813000) | -[CSS: Profile Cards](https://generalassembly.zoom.us/rec/share/QsRrguqM3pVYNS5AMhxOQMOKmhQg7TcRFqhr7G5SVWzFFb-6BlJU_NtnhCKkROFJ.3wtHkWnuXiKbbkzy?startTime=1617899481000)<br /><br /> -[Functions P1](https://generalassembly.zoom.us/rec/share/QsRrguqM3pVYNS5AMhxOQMOKmhQg7TcRFqhr7G5SVWzFFb-6BlJU_NtnhCKkROFJ.3wtHkWnuXiKbbkzy?startTime=1617916911000)<br /><br /> -[Functions P2](https://generalassembly.zoom.us/rec/share/QsRrguqM3pVYNS5AMhxOQMOKmhQg7TcRFqhr7G5SVWzFFb-6BlJU_NtnhCKkROFJ.3wtHkWnuXiKbbkzy?startTime=1617923801000) | -[Coming Soon...](#) |
