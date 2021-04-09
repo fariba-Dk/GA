@@ -148,7 +148,7 @@ However, you can access past year's puzzles!
 
 <tr>
 <td><strong>Friday</strong><br />(4/9)</td>
-<td>CSS: Landing Page</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/css-flexbox-blog">CSS: Blog Page</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/Objects">Objects</a> </td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/Objects-lab">Objects Lab</a></td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/Objects-lab">Objects Lab</a></td>
