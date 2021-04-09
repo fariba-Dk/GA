@@ -71,6 +71,9 @@ However, you can access past year's puzzles!
 <br/>
 <br/>
 
+
+## Unit 1 - Fundamentals
+
 ### Week 1 - FUNdamentals...!
 
 <table>
