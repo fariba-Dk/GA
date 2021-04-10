@@ -75,6 +75,105 @@ However, you can access past year's puzzles!
 ## Unit 1 - Fundamentals
 <br />
 
+### Week 2 - Advanced Objects, The DOM, jQuery...!
+
+<table>
+<thead>
+<tr>
+<td></td>
+<th>Morning Exercise</th>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>HW &amp; Extras</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><strong>Monday</strong><br />(4/12)</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/css-flexbox">CSS: Flexbox</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/Combining-datatypes">Objects & this!</a></td>
+<td>
+
+ - <a href="https://git.generalassemb.ly/wc-seir-405/solar-system-lab">Solar System Lab</a>
+ - <a href="https://git.generalassemb.ly/wc-seir-405/weather-object-lab">Weather Object Lab</a>
+</td>
+<td>
+  
+  - <a href="https://git.generalassemb.ly/wc-seir-405/mixed-data-types-hw">Mixed Data Types</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/Combining-Data-Types-Lab">Avengers Mixed Types</a>
+  
+</td>
+<td>Objects & This!</td>
+</tr>
+
+<tr>
+<td><strong>Tuesday</strong><br />(4/13)</td>
+
+<td><a href="https://git.generalassemb.ly/wc-seir-405/classes">OOP & Classes</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/classes">OOP & Classes</a></td>
+<td>Outcomes</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/classes-lab">Classes Lab</a></td>
+<td>Object Oriented Programming</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(4/14)</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/space-battle">Space Battle</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/space-battle">Space Battle</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/space-battle">Space Battle</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/oop-pokemon">OOP Pokemon</a></td>
+<td>Object Oriented Programming</td>
+</tr>
+
+<tr>
+<td><strong>Thursday</strong><br />(4/15)</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/intro-to-the-dom">Intro to Dom</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/dom-events">Dom Events</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/dom-events">Dom Events</a></td>
+<td><a href="https://getbootstrap.com/docs/5.0/components/carousel/#with-controls">DOM Challenge: Build a Caoursel</a></td>
+<td>Dom Manipulation</td>
+</tr>
+
+<tr>
+<td><strong>Friday</strong><br />(4/16)</td>
+
+<td><a href="https://git.generalassemb.ly/wc-seir-405/intro-to-jquery">jQuery Intro</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/intro-to-jquery">jQuery Intro</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/poke-a-square">Poke-a-square</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/jquery-fellowship">jQuery Fellowship</a></td>
+<td>Dom Manipulation</td>
+</tr>
+
+</table>
+
+### Week 2 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
+
+<tr><td>4/12</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/mixed-data-types-hw">Mixed Data Types</a></td>
+<td>4/19</td>
+</tr>
+<tr><td>4/16</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/jquery-fellowship">jQuery Fellowship</a></td>
+<td>4/23</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+
 ### Week 1 - FUNdamentals...!
 
 <table>
