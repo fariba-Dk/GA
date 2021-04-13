@@ -6,9 +6,7 @@
 
 ### Week 2 - Advanced Objects, The DOM, jQuery...!
 
-Monday | Tuesday | Wednesday | Thursday | Friday
---- | --- | --- | --- | ---
-**4/12** | **4/13** | **4/14** | **4/15** | **4/16**
+Monday 4/12 | Tuesday 4/13 | Wednesday 4/14 | Thursday 4/15 | Friday 4/16
 -[CSS: Flexbox](https://generalassembly.zoom.us/rec/share/tHX2mal8K4ekq6-zMauSM3IWeNGRITDcgUBwLxv5m0r1H76iau11D0bb9XozBExH.56KFQeOVVQtzhe-d?startTime=1618243944000)<br /><br /> -[Objects & This](https://generalassembly.zoom.us/rec/share/tHX2mal8K4ekq6-zMauSM3IWeNGRITDcgUBwLxv5m0r1H76iau11D0bb9XozBExH.56KFQeOVVQtzhe-d?startTime=1618262767000) | -Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon |
 
 <br />
