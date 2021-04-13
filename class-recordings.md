@@ -4,7 +4,7 @@
 ## Unit 1 - Fundamentals
 <br />
 
-### Week 1 - FUNdamentals...!
+### Week 2 - Advanced Objects, The DOM, jQuery...!
 
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
