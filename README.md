@@ -73,7 +73,100 @@ However, you can access past year's puzzles!
 
 
 ## Unit 1 - Fundamentals
-<br />
+
+<br/>
+
+### Week 3 - Project Zero: Tamagotchi
+
+<!-- <a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a>
+<a href="https://git.generalassemb.ly/wc-seir-405/js-racer-game">Project: Car Racer</a> -->
+
+<table>
+<thead>
+<tr>
+<td></td>
+<th>Morning Exercise</th>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>HW &amp; Extras</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td><strong>Monday</strong><br />(4/19)</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/css-animation">CSS Animation</a></td>
+<td>Introduce Project 0</td>
+<td>Project Planning</td>
+<td>Project Time</td>
+<td>Project Time</td>
+</tr>
+
+<tr>
+<td><strong>Tuesday</strong><br />(4/20)</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Outcomes</td>
+<td>Project Time</td>
+<td>Project Time</td>
+</tr>
+
+<tr>
+<td><strong>Wednesday</strong><br />(4/21)</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Project Time</td>
+</tr>
+
+<tr>
+<td><strong>Thursday</strong><br />(4/22)</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td>Project Time</td>
+</tr>
+
+<tr>
+<td><strong>Friday</strong><br />(4/23)</td>
+<td>Project Time</td>
+<td>Project Time</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/deploy-to-github-pages">GitHub Pages Deployment</a></td>
+<td>Project Time</td>
+<td>Project Time</td>
+</tr>
+
+</table>
+
+### Week 3 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>4/19</td>
+<td>
+  Project 0
+  <!-- - <a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/js-racer-game">Project: Car Racer</a> -->
+</td>
+<td>4/23</td>
+</tr>
+
+</table>
+
+<br/>
+<br/>
 
 ### Week 2 - Advanced Objects, The DOM, jQuery...!
 
