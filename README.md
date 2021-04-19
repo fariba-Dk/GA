@@ -80,7 +80,7 @@ However, you can access past year's puzzles!
 ### Week 3 - Project Zero: Tamagotchi or JS Racer
 **options**
 1) <a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a><br />
-2) <a href="https://git.generalassemb.ly/wc-seir-405/js-racer-game">Project: Car Racer</a>
+2) <a href="https://git.generalassemb.ly/wc-seir-405/js-racer-game">Project: JS Racer</a>
 
 <table>
 <thead>
