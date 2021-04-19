@@ -9,6 +9,7 @@
 - [Class Culture/Expectations](https://git.generalassemb.ly/wc-seir-405/welcome-to-sei)
 - [Remote Class Expectations](https://git.generalassemb.ly/wc-seir-405/remote-class-expectations)
 - [Installfest](https://git.generalassemb.ly/wc-seir-405/installfest)
+- [Submitting Deliverables](https://git.generalassemb.ly/wc-seir-405/submitting-deliverables)
 
 <br/>
 
