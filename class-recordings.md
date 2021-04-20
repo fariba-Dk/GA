@@ -4,6 +4,18 @@
 ## Unit 1 - Fundamentals
 <br />
 
+
+### Week 2 - Advanced Objects, The DOM, jQuery...!
+
+Monday | Tuesday | Wednesday | Thursday | Friday
+--- | --- | --- | --- | ---
+**4/19** | **4/20** | **4/21** | **4/22** | **4/23**
+-[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) | -[Coming Soon...](#) |
+
+<br />
+<br />
+
+
 ### Week 2 - Advanced Objects, The DOM, jQuery...!
 
 Monday | Tuesday | Wednesday | Thursday | Friday
