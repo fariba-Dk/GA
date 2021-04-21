@@ -161,7 +161,7 @@ However, you can access past year's puzzles!
   <!-- - <a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a>
   - <a href="https://git.generalassemb.ly/wc-seir-405/js-racer-game">Project: Car Racer</a> -->
 </td>
-<td>4/23</td>
+<td>4/26</td>
 </tr>
 
 </table>
