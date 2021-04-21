@@ -10,7 +10,7 @@
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
 **4/19** | **4/20** | **4/21** | **4/22** | **4/23**
--[CSS Animations](https://generalassembly.zoom.us/rec/share/NRNt1pnLyM52cH9YowcRF_pKap13O0an87BDWgX7XlPDV-N59gdCJuQLTS13F5RL.xrLrmKUqWEkngQZn?startTime=1618848426000)<br /><br /> -[Project 0 Inro](https://generalassembly.zoom.us/rec/share/NRNt1pnLyM52cH9YowcRF_pKap13O0an87BDWgX7XlPDV-N59gdCJuQLTS13F5RL.xrLrmKUqWEkngQZn?startTime=1618867035000)<br /><br /> -[Git Review](https://generalassembly.zoom.us/rec/share/NRNt1pnLyM52cH9YowcRF_pKap13O0an87BDWgX7XlPDV-N59gdCJuQLTS13F5RL.xrLrmKUqWEkngQZn?startTime=1618869173000) | -[Coming Soon...](#) | -Project 0 | -Project 0 | -Project 0 |
+-[CSS Animations](https://generalassembly.zoom.us/rec/share/NRNt1pnLyM52cH9YowcRF_pKap13O0an87BDWgX7XlPDV-N59gdCJuQLTS13F5RL.xrLrmKUqWEkngQZn?startTime=1618848426000)<br /><br /> -[Project 0 Inro](https://generalassembly.zoom.us/rec/share/NRNt1pnLyM52cH9YowcRF_pKap13O0an87BDWgX7XlPDV-N59gdCJuQLTS13F5RL.xrLrmKUqWEkngQZn?startTime=1618867035000)<br /><br /> -[Git Review](https://generalassembly.zoom.us/rec/share/NRNt1pnLyM52cH9YowcRF_pKap13O0an87BDWgX7XlPDV-N59gdCJuQLTS13F5RL.xrLrmKUqWEkngQZn?startTime=1618869173000) | -[Outcomes](https://generalassembly.zoom.us/rec/share/LZySgfyTxnUdD4XgyRFiyqkbUqmEGF7NHh2o6v42FoM_3KWM3Jqz1teeeU7W5tb6.Cf7eJxEmZTJl4lOw?startTime=1618948841000) | -Project 0 | -Project 0 | -Project 0 |
 
 <br />
 <br />
