@@ -28,8 +28,8 @@
 
 ## TA Office Hours
 
-Mon - Thu: 5:00pm - 7:00pm Pacific Time<br />
-Sundays: 2:00pm - 4:00pm Pacific Time
+Mon - Thu: 5:30pm - 7:30pm Pacific Time<br />
+Sundays: 11:00am - 2:00pm Pacific Time
 
 [TA Office Hours Signup Form](https://docs.google.com/spreadsheets/d/11DjnGEM8ckHTh5pn7vQN4lubLKh9IRvplabj2tYXAsQ/edit#gid=911038966)
 
@@ -169,7 +169,8 @@ However, you can access past year's puzzles!
 <br/>
 <br/>
 
-### Week 2 - Advanced Objects, The DOM, jQuery...!
+### Week 2 - Advanced Objects, The DOM, 
+...!
 
 <table>
 <thead>
