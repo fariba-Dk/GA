@@ -260,7 +260,7 @@ However, you can access past year's puzzles!
 </tr>
 <tr><td>4/16</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/jquery-fellowship">jQuery Fellowship</a></td>
-<td>4/23</td>
+<td>4/30</td>
 </tr>
 </table>
 
