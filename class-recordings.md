@@ -5,7 +5,7 @@
 <br />
 
 
-### Week 2 - Advanced Objects, The DOM, jQuery...!
+### Week 3 - Advanced Objects, The DOM, jQuery...!
 
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
