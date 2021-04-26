@@ -94,11 +94,11 @@ However, you can access past year's puzzles!
 
 <tr>
   <td><strong>Monday</strong><br />(4/26)</td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi Presentations</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi Presentations</a></td>
-  <td>Project: Tamagotchi</td>
+  <td>Project: 0</td>
+  <td>Project: 0 Presentations</td>
+  <td>Project: 0 Presentations</td>
+  <td>Rest!</td>
+  <td>Project: 0</td>
 </tr>
 
 <tr>
