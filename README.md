@@ -198,7 +198,7 @@ However, you can access past year's puzzles!
 
 <tr>
 <td>4/26</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/express-space-homework">Express Space</a></td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/jquery-fellowship">jQuery Fellowship</a></td>
 <td>5/3</td>
 </tr>
 <tr>
@@ -298,11 +298,7 @@ However, you can access past year's puzzles!
 
 <tr>
 <td>4/19</td>
-<td>
-  Project 0
-  <!-- - <a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a>
-  - <a href="https://git.generalassemb.ly/wc-seir-405/js-racer-game">Project: Car Racer</a> -->
-</td>
+<td>Project 0</td>
 <td>4/26</td>
 </tr>
 
