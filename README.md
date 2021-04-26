@@ -72,6 +72,148 @@ However, you can access past year's puzzles!
 <br/>
 <br/>
 
+## Unit 2 - JS Servers & NOSQL Databases
+<br/>
+
+### Week 4 - Node, Express, & Mongoose
+
+<a href="https://git.generalassemb.ly/wc-seir-405/express-fruits">Express Fruit App (class repo)</a>
+
+<table>
+<thead>
+<tr>
+<td></td>
+<th>Morning Exercise</th>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>HW &amp; Extras</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Monday</strong><br />(4/26)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-zero">Project: Tamagotchi Presentations</a></td>
+  <td>Project: Tamagotchi</td>
+</tr>
+
+<tr>
+  <td><strong>Tuesday</strong><br />(4/27)</td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/WC-SEIR-405/installfest/blob/master/unit2-installations.md">Unit 2 Installfest</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/intro_to_Express">Intro To Express</a>
+  </td>
+   
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-405/url_and_query_params">Url & Params</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/express-lab-params">Params lab</a>
+  </td>
+
+  <td>
+  
+  - Outcomes
+  - <a href="https://git.generalassemb.ly/wc-seir-405/intro_to_Rest">Intro To Rest</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/express-space-homework">Express Space <strong></a></td>
+
+  <td>Node/Express</td>
+
+</tr>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(4/28)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/MVC">MVC</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/mvc-intro-lab">MVC Intro Lab</a></td>
+
+  <td>
+  
+  - <a href="https://git.generalassemb.ly/wc-seir-405/NEW_Create_Express">New & Create</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/Express-Create-Lab">Lab: Products App</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Pokemon-Express">Pokemon Express</a></td>
+
+  <td>Node/Express</td>
+</tr>
+
+<tr>
+  <td><strong>Thursday</strong><br />(4/29)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Delete-Express">Delete & Edit</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Delete-Express">Delete & Edit</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-405/express-controllers">Controllers</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/express-partner-lab">Lab: Pair Programming</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Pokemon-Express">Pokemon Express</a></td>
+
+  <td>MongoDB/Mongoose</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(4/30)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/mongo-lesson">Intro to Mongo</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/mongo-lab">Mongo Lab</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-405/mongoose-lesson">Intro to Mongoose</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/Mongoose-Lab">Mongoose Lab</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/mongoose-vampires-hw">Mongoose Vampires <strong></a></td>
+
+  <td>Full Stack Dev</td>
+</tr>
+
+</table>
+
+### Week 4 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td>Date Assigned</td>
+<td>Deliverable</td>
+<td>Final Due Date</td>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>4/26</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/express-space-homework">Express Space</a></td>
+<td>5/3</td>
+</tr>
+<tr>
+<td>4/29</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/mongoose-vampires-hw">Mongoose Vampires</a></td>
+<td>5/6</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+<br/>
+<br/>
+
 
 ## Unit 1 - Fundamentals
 
