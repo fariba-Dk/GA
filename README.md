@@ -197,9 +197,9 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td>4/26</td>
+<td>4/16</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/jquery-fellowship">jQuery Fellowship</a></td>
-<td>5/3</td>
+<td>4/30</td>
 </tr>
 <tr>
 <td>4/29</td>
