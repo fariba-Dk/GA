@@ -77,7 +77,7 @@ However, you can access past year's puzzles!
 
 ### Week 4 - Node, Express, & Mongoose
 
-<a href="https://git.generalassemb.ly/wc-seir-405/express-fruits">Express Fruit App (class repo)</a>
+<a href="https://git.generalassemb.ly/wc-seir-405/express-fruit">Express Fruit App (class repo)</a>
 
 <table>
 <thead>
