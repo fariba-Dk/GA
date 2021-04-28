@@ -1,6 +1,21 @@
 <h1><img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png" alt="" style="max-width:100%;" /> WC SEI Remote 4/05 Class Recordings</h1>
 
 
+## Unit 2 - Fundamentals
+<br />
+
+
+### Week 4 - JS Servers & NOSQL Databases
+
+Monday | Tuesday | Wednesday | Thursday | Friday
+--- | --- | --- | --- | ---
+**4/26** | **4/27** | **4/28** | **4/29** | **4/30**
+-[NodeJS InstallFest](https://generalassembly.zoom.us/rec/share/TURmkppE4KJ2upPPmyEr8yKJIPoAkL0Hr2vc3pMEy2aBpRiH7jMXupq-EXvyv1Kv.R0uNjrifDsImd9W5?startTime=1619470794000) <br /><br /> | -[Intro to Express](https://generalassembly.zoom.us/rec/share/d8CFUeq8hdJ-dKiDOc4Ag_o9zakAPArx2g1-SvdnrnRozYKtkPHofo7O0uGYduAF.oy1xam7B2204IQYL?startTime=1619539336000)<br /><br /> -[Intro to Express Review](https://generalassembly.zoom.us/rec/share/d8CFUeq8hdJ-dKiDOc4Ag_o9zakAPArx2g1-SvdnrnRozYKtkPHofo7O0uGYduAF.oy1xam7B2204IQYL?startTime=1619551949000) <br /><br /> -[Outcomes](https://generalassembly.zoom.us/rec/share/d8CFUeq8hdJ-dKiDOc4Ag_o9zakAPArx2g1-SvdnrnRozYKtkPHofo7O0uGYduAF.oy1xam7B2204IQYL?startTime=1619554037000) <br /><br /> -[Express Dynamic Params](https://generalassembly.zoom.us/rec/share/d8CFUeq8hdJ-dKiDOc4Ag_o9zakAPArx2g1-SvdnrnRozYKtkPHofo7O0uGYduAF.oy1xam7B2204IQYL?startTime=1619561476000) | -Coming Soon | -Coming Soon | -Coming Soon |
+
+<br />
+<br />
+
+
 ## Unit 1 - Fundamentals
 <br />
 
