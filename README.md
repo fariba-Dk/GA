@@ -130,6 +130,7 @@ However, you can access past year's puzzles!
   <td><strong>Wednesday</strong><br />(4/28)</td>
 
   <td>
+  
   - <a href="https://git.generalassemb.ly/wc-seir-405/intro_to_Rest">Intro To Rest</a>
   - <a href="https://git.generalassemb.ly/wc-seir-405/MVC">MVC</a>
   </td>
