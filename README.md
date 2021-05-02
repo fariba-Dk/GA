@@ -78,6 +78,7 @@ However, you can access past year's puzzles!
 ### Week 5 - Servers & Databases Continued
 
 <a href="https://git.generalassemb.ly/wc-seir-405/express-fruit">Express Fruit App (class repo)</a><br />
+<a href="https://git.generalassemb.ly/wc-seir-405/express-blog">Express Blog (class Repo)</a><br />
 
 <table>
 <thead>
