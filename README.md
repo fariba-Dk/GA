@@ -75,6 +75,126 @@ However, you can access past year's puzzles!
 ## Unit 2 - JS Servers & NOSQL Databases
 <br/>
 
+### Week 5 - Servers & Databases Continued
+
+<a href="https://git.generalassemb.ly/wc-seir-405/express-fruit">Express Fruit App (class repo)</a><br />
+
+<table>
+<thead>
+<tr>
+<td></td>
+<th>Morning Exercise</th>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>HW &amp; Extras</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Monday</strong><br />(5/3)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Scope">Scope</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/express-adding-models">Fruits App with Database</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-405/first-full-stack-homework">MEN Stack Lab (CR)</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/first-full-stack-homework">MEN Stack Lab (UD)</a>
+  </td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/first-full-stack-homework">MEN Stack</a></td>
+
+  <td>Full Stack</td>
+</tr> 
+
+
+<tr>
+  <td><strong>Tuesday</strong><br />(5/4)</td>
+  
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Two-Model-Crud-No-RelationShip">Express Blog (1st Model)</a></td>
+
+  <td>
+
+  - <a href="https://git.generalassemb.ly/wc-seir-405/two-model-second-model-crud">Express Blog (2nd Model)</a>
+  - <a href="https://git.generalassemb.ly/wc-seir-405/two-model-lab">Two Model lab</a>
+  </td>
+
+  <td>Outcomes</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/photo-app-hw">Photo App</a></td>
+
+  <td>Full Stack Development</td>
+</tr>
+
+
+<tr>
+  <td><strong>Wednesday</strong><br />(5/5)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/two-model-relationship-build">Blog Related Models</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/two-model-relationship-build">Blog Related Models</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/two-related-models-lab">Related Models Lab</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/photo-app-hw">Photo App</a></td>
+  <td>Model Relationships</td>
+</tr>
+
+
+<tr>
+  <td><strong>Thursday</strong><br />(5/6)</td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Github-collaboration-guide">Git Collaboration</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Github-collaboration-guide">Git Collaboration Lab</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Intro & planning</a></td>
+
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Planning</a></td>
+
+  <td>Full Stack Development</td>
+</tr>
+
+
+<tr>
+  <td><strong>Friday</strong><br />(5/7)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Approvals</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Approvals</a></td>
+</tr>
+
+</table>
+
+### Week 5 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td><strong>Date Assigned</strong></td>
+<td><strong>Deliverable</strong></td>
+<td><strong>Final Due Date</strong></td>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+<td>5/11</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/first-full-stack-homework">MEN Stack</a></td>
+<td>5/18</td>
+</tr>
+
+<tr>
+<td>5/15</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+<td>5/22</td>
+</tr>
+</table>
+
+<br />
+<br />
+
+
 ### Week 4 - Node, Express, & Mongoose
 
 <a href="https://git.generalassemb.ly/wc-seir-405/express-fruit">Express Fruit App (class repo)</a>
