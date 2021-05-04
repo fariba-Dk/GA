@@ -10,7 +10,7 @@
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
 **5/3** | **5/4** | **5/5** | **5/6** | **5/7**
--[Scope](https://generalassembly.zoom.us/rec/share/DfbyYyLyExahHeaWPfWGnasiwju6q7trB_V3rHiF3j7DoUmIu-PwWJ32wuHeXO-_.gUWirFB8IYAj4UIA?startTime=1620058567000) <br /><br /> -[Fruits App w/Database](https://generalassembly.zoom.us/rec/share/DfbyYyLyExahHeaWPfWGnasiwju6q7trB_V3rHiF3j7DoUmIu-PwWJ32wuHeXO-_.gUWirFB8IYAj4UIA?startTime=1620072385000) <br /> | -Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon |
+-[Scope](https://generalassembly.zoom.us/rec/share/DfbyYyLyExahHeaWPfWGnasiwju6q7trB_V3rHiF3j7DoUmIu-PwWJ32wuHeXO-_.gUWirFB8IYAj4UIA?startTime=1620058567000) <br /><br /> -[Fruits App w/Database](https://generalassembly.zoom.us/rec/share/DfbyYyLyExahHeaWPfWGnasiwju6q7trB_V3rHiF3j7DoUmIu-PwWJ32wuHeXO-_.gUWirFB8IYAj4UIA?startTime=1620072385000) <br /><br /> | -Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon |
 
 
 ### Week 4 - JS Servers & NOSQL Databases
