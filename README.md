@@ -178,12 +178,6 @@ However, you can access past year's puzzles!
 </tr>
 </thead>
 <tbody>
- 
-<tr>
-<td>5/11</td>
-<td><a href="https://git.generalassemb.ly/wc-seir-405/first-full-stack-homework">MEN Stack</a></td>
-<td>5/18</td>
-</tr>
 
 <tr>
 <td>5/15</td>
