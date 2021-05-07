@@ -180,9 +180,9 @@ However, you can access past year's puzzles!
 <tbody>
 
 <tr>
-<td>5/15</td>
+<td>5/7</td>
 <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
-<td>5/22</td>
+<td>5/14</td>
 </tr>
 </table>
 
