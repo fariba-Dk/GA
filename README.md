@@ -75,6 +75,94 @@ However, you can access past year's puzzles!
 ## Unit 2 - JS Servers & NOSQL Databases
 <br/>
 
+### Week 6 - Project: Express
+
+<a href="https://git.generalassemb.ly/wc-seir-405/express-session-demo-code">Express Session Demo Code</a>
+ 
+<table>
+<thead>
+<tr>
+<td></td>
+<th>Morning Exercise</th>
+<th>Module 1</th>
+<th>Module 2</th>
+<th>HW &amp; Extras</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td><strong>Monday</strong><br />(5/10)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/sessions">Express Session</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/sessions">Express Session</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td>Project One</td>
+</tr>
+
+<tr>
+  <td><strong>Tuesday</strong><br />(5/11)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td>Outcomes</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td>Project One</td>
+</tr>
+
+<tr>
+  <td><strong>Wednesday</strong><br />(5/12)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td>Project One</td>
+</tr>
+
+<tr>
+  <td><strong>Thursday</strong><br />(5/13)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td>Project One</td>
+</tr>
+
+<tr>
+  <td><strong>Friday</strong><br />(5/14)</td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One Presentations</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Node-Heroku-Deployment">Heroku Deployment</a></td>
+  <td>Rest</td>
+  <td>Project One</td>
+</tr>
+
+</table>
+
+### Week 6 - Deliverables
+
+<p>It is a requirement to complete at least 80% of all deliverables to receive: a Certificate of Completion; post-grad benefits such as the Meet and Greet; and Outcomes support.</p>
+<table>
+<thead>
+<tr><td><strong>Date Assigned</strong></td>
+<td><strong>Deliverable</strong></td>
+<td><strong>Final Due Date</strong></td>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>5/7</td>
+<td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+<td>5/14</td>
+</tr>
+
+</table>
+
+<br />
+<br />
+
+
 ### Week 5 - Servers & Databases Continued
 
 <a href="https://git.generalassemb.ly/wc-seir-405/express-fruit">Express Fruit App (class repo)</a><br />
