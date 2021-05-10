@@ -77,7 +77,7 @@ However, you can access past year's puzzles!
 
 ### Week 6 - Project: Express
 
-<a href="https://git.generalassemb.ly/wc-seir-405/express-session-demo-code">Express Session Demo Code</a>
+<a href="https://git.generalassemb.ly/wc-seir-405/express-session">Express Session Demo Code</a>
  
 <table>
 <thead>
