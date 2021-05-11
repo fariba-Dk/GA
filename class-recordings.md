@@ -10,7 +10,7 @@
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
 **5/3** | **5/4** | **5/5** | **5/6** | **5/7**
--Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon |
+-[Express Session](https://generalassembly.zoom.us/rec/play/6H996BJLYVd82rPrvnkPCmUQFaJJlUEQqLfzg_PeDvqrE_B71beJIojVOaVIA326L0mcMQpmO-C6Yd4l.CvHFy93rVbV9320a) | -Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon |
 
 ### Week 5 - Servers & Databases Continued
 
