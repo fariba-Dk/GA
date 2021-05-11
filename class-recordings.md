@@ -2,8 +2,15 @@
 <br />
 <br />
 
-## Unit 2 - Fundamentals
+## Unit 2 - Node & Express
 <br />
+
+### Week 6 - Node & Express Project Week
+
+Monday | Tuesday | Wednesday | Thursday | Friday
+--- | --- | --- | --- | ---
+**5/3** | **5/4** | **5/5** | **5/6** | **5/7**
+-Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon | -Coming Soon |
 
 ### Week 5 - Servers & Databases Continued
 
