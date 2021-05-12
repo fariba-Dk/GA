@@ -113,7 +113,7 @@ However, you can access past year's puzzles!
 <tr>
   <td><strong>Wednesday</strong><br />(5/12)</td>
   <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
-  <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
+  <td><a href="https://git.generalassemb.ly/wc-seir-405/Responsive-Layouts-with-Media-Queries">CSS: Media Queries</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
   <td><a href="https://git.generalassemb.ly/wc-seir-405/project-one">Project One</a></td>
   <td>Project One</td>
