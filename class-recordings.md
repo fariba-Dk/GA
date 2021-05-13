@@ -10,7 +10,7 @@
 Monday | Tuesday | Wednesday | Thursday | Friday
 --- | --- | --- | --- | ---
 **5/3** | **5/4** | **5/5** | **5/6** | **5/7**
--[Express Session](https://generalassembly.zoom.us/rec/play/6H996BJLYVd82rPrvnkPCmUQFaJJlUEQqLfzg_PeDvqrE_B71beJIojVOaVIA326L0mcMQpmO-C6Yd4l.CvHFy93rVbV9320a) | <br />-[Outcomes](https://generalassembly.zoom.us/rec/share/xXi1OZUSSI6OE7kuKdYuakhlTc1it9ahha4mEDma1un5CYfDpVgkMx2I4k6dRG8n._oVmuNDaUxVK_xYt)<br /><br /> | -Coming Soon | -Coming Soon | -Coming Soon |
+-[Express Session](https://generalassembly.zoom.us/rec/play/6H996BJLYVd82rPrvnkPCmUQFaJJlUEQqLfzg_PeDvqrE_B71beJIojVOaVIA326L0mcMQpmO-C6Yd4l.CvHFy93rVbV9320a) | <br />-[Outcomes](https://generalassembly.zoom.us/rec/share/xXi1OZUSSI6OE7kuKdYuakhlTc1it9ahha4mEDma1un5CYfDpVgkMx2I4k6dRG8n._oVmuNDaUxVK_xYt)<br /><br /> | -[CSS: Media Queries](https://generalassembly.zoom.us/rec/share/Jt0orhWbw2LhINnSJJia0Xiug8Wznk-CRIvGSiB3MpBCL7amq9vl1VgJoW2sbba3.rsFzMowDUVfmYKcS) | -Coming Soon | -Coming Soon |
 
 ### Week 5 - Servers & Databases Continued
 
